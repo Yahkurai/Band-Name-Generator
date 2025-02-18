@@ -48,7 +48,7 @@ This project is perfect for beginners learning Python, as it demonstrates basic 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/band-name-generator.git
+   git clone https://github.com/Yahkurai/Band-Name-Generator.git
    ```
 
 2. Navigate to the project directory:
